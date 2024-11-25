@@ -1,3 +1,6 @@
+body {
+    transition: 0.4s ease;
+}
 section#colour-display {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 100px auto;
